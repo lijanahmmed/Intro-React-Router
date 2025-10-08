@@ -7,9 +7,6 @@ const UserDetails = () => {
     const { userId } = useParams();
     console.log(userId);
 
-    // const params = useParams();
-    // console.log(params.userId);
-
     const { website, name } = user;
     return (
         <div>
