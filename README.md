@@ -7,6 +7,7 @@ A beginner-friendly guide to understanding **React basics**, **hooks**, and **ro
 ## Features Covered
 
 ### React Fundamentals
+
 - **Functional Components** – Reusable JavaScript functions that return UI (JSX).
 - **JSX** – A syntax that lets you write HTML-like code inside JavaScript.
 - **Props & Prop Drilling** – Passing data from parent to child components.
@@ -18,6 +19,7 @@ A beginner-friendly guide to understanding **React basics**, **hooks**, and **ro
 - **Forms & Controlled Components** – Handling form input with state.
 
 ### React Hooks (All Important Hooks)
+
 - **`useState()`** – Manages component state.
 - **`useEffect()`** – Runs side effects like fetching data.
 - **`useContext()`** – Shares state globally without prop drilling.
@@ -28,6 +30,7 @@ A beginner-friendly guide to understanding **React basics**, **hooks**, and **ro
 - **Custom Hooks** – Reusable logic extracted into separate functions.
 
 ### React Router Concepts
+
 - **BrowserRouter** – Wraps the app and enables routing.
 - **Routes & Route** – Defines different pages in your app.
 - **Nested Routes** – Routing inside another route for layouts.
@@ -40,6 +43,7 @@ A beginner-friendly guide to understanding **React basics**, **hooks**, and **ro
 ---
 
 ## Technologies Used
+
 - **React** – Component-based UI library.
 - **React Router** – Library for client-side navigation.
 - **Tailwind CSS** – Utility-first styling framework.
@@ -47,3 +51,6 @@ A beginner-friendly guide to understanding **React basics**, **hooks**, and **ro
 
 ---
 
+## Live Link
+
+[https://intro-react-router.netlify.app/](https://intro-react-router.netlify.app/)
